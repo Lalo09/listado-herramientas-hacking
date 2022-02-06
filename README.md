@@ -243,24 +243,26 @@ https://owasp.org/
 - Camara:CamPish
 - Obtener patron de desbloqueo:lockphish
 <div id='id5' />
+
 ## Sitios de informacion de ciberseguridad
 - https://nvd.nist.gov/ncp/repository
 - https://www.sei.cmu.edu/about/divisions/cert/index.cfm
 - https://isc.sans.edu/
 - https://www.acscenter.org/
 - https://sectools.org/tag/vuln-scanners/
+
 <div id='id6' />
 ## Sitios para practicar hacking
--  **Vulnhub**
+- **Vulnhub**
 - Itsecgames
 - Dvwa 
--  **Hackthissite **
+- **Hackthissite **
 - Defend the Web 
 - Root-me
--  **HackTheBox**
--  **Overthewire **
+- **HackTheBox**
+- **Overthewire **
 - Ctftime 
-- ** TryHackMe**
+- **TryHackMe**
 - PicoCTF
 - hacking-lab
 - pwnable.kr
