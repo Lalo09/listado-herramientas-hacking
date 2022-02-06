@@ -252,6 +252,7 @@ https://owasp.org/
 - https://sectools.org/tag/vuln-scanners/
 
 <div id='id6' />
+
 ## Sitios para practicar hacking
 - **Vulnhub**
 - Itsecgames
